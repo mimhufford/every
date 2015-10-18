@@ -2,6 +2,7 @@
 A JavaScript setinterval() wrapper
 
 Usage
+
     every('1s', function() {
       // your code
     });
