@@ -5,3 +5,5 @@
     });
 
     every('5m', yourFunction);
+
+    every('3h', yourOtherFunction);
